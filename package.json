@@ -1,0 +1,17 @@
+{
+  "name": "ParrotBot",
+  "version": "1.0.0",
+  "description": "AWS Polly enabled text to speed discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Kript",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "latest",
+    "discord.js": "latest",
+    "aws-sdk": "latest"
+  }
+}
